@@ -35,3 +35,4 @@ A structured and beginner-friendly roadmap to learning the fundamentals of web d
 - Creating a proper folder structure
 - Linking pages
 - Building a multi-page website
+- Tables
