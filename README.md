@@ -51,3 +51,13 @@ A structured and beginner-friendly roadmap to learning the fundamentals of web d
 
 - Tag & Class Selector
 - Basic Css properties
+
+## **🗂️ Class 6 — Box Modal**
+
+- margins
+- paddings
+- box-sizing: border-box
+- block / inline elements
+- overflow properties
+- min & max height
+- github workflow
