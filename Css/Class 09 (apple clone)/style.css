@@ -1,0 +1,82 @@
+:root{
+    --primary-color-blue: #0071e3
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.banner-section{
+    height: 90vh;
+    background-color: #f5f5f7;
+    background-image: url("./assets/iphone-hero");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 53px;
+    margin-bottom: 12px;
+}
+
+.banner-section h1{
+    font-size: 48px;
+    line-height: 1.08349;
+    font-weight: 600;
+    letter-spacing: -.002em;
+    margin-bottom:10px
+}
+
+.banner-section p{
+    font-size: 24px;
+    line-height: 1.16667;
+    font-weight: 400;
+    letter-spacing: .009em;
+    margin-bottom:20px
+}
+
+.filled-btn-blue{
+    font-size: 17px;
+    padding: 11px 21px;
+    background-color: var(--primary-color-blue);
+    line-height: 1.1764805882;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    border-radius: 100px;
+    border: none;
+    color: white;
+    margin-right: 20px;
+}
+
+.outlined-btn-blue{
+    font-size: 17px;
+    padding: 11px 21px;
+    line-height: 1.1764805882;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    border-radius: 100px;
+    border: 1px solid var(--primary-color-blue);
+    color: var(--primary-color-blue);
+}
+
+.items-section{
+    height: 90vh;
+    background-color: beige;
+    display: flex;
+    gap: 12px;
+}
+
+.items-section > div{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(209, 135, 135);
+}

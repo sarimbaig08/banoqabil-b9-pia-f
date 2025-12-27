@@ -86,7 +86,7 @@ font-size: 14px;
 .yellowHoodie:hover{
     background-color: #ffc800;
     color: white;
-    cursor: pointer;
+    cursor: pointer;    
     transform: scale(1.2);
 }
 
