@@ -140,3 +140,14 @@ A structured and beginner-friendly roadmap to learning the fundamentals of web d
 - Mapping them on products page
 - Made a new page for product detail
 - From product detail page user can add item to cart which will be saved in localstorage
+
+## **🗂️ Class 21 - Bill Generator**
+
+- Create a form take order from user and generate bill
+
+## **🗂️ Class 22 - Array & Object Methods**
+
+- Slice & Splice
+- Shift & UnShift
+- Primitive(stack memory) & NonPrimitive(heap memory)
+- Diff bw Map & ForEach loop
